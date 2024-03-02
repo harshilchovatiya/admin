@@ -1,0 +1,13 @@
+/* Add your custom styles here */
+
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  #dashboard {
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  /* Add more styles as needed */
+  
